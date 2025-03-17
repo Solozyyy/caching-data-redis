@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/296c2f99-b352-4317-b66f-d9907abd076c)![image](https://github.com/user-attachments/assets/faee4ace-948f-4ef7-9893-817e7d52be00)
+[image](https://github.com/user-attachments/assets/faee4ace-948f-4ef7-9893-817e7d52be00)
 url of datasource: https://jsonplaceholder.typicode.com/photos
 
 --giả sử đã tự setup được redis trên máy
