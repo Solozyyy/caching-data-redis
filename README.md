@@ -1,4 +1,4 @@
-[image](https://github.com/user-attachments/assets/faee4ace-948f-4ef7-9893-817e7d52be00)
+[[image](https://github.com/user-attachments/assets/faee4ace-948f-4ef7-9893-817e7d52be00)](https://github.com/Solozyyy/caching-data-redis/issues/2#issue-2923048367)
 url of datasource: https://jsonplaceholder.typicode.com/photos
 
 --giả sử đã tự setup được redis trên máy
